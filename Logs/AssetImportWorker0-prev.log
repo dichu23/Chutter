@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19041.1237; Version 2004; 64bit' Language: 'en' Physical Memory: 3537 MB
+OS: 'Windows 10 Home; OS build 19041.1288; Version 2004; 64bit' Language: 'en' Physical Memory: 3537 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -15,7 +15,7 @@ C:/Users/ezedi/Documents/Unity/Tutorial Unity/Chutter
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51952
+64275
 Successfully changed project path to: C:/Users/ezedi/Documents/Unity/Tutorial Unity/Chutter
 C:/Users/ezedi/Documents/Unity/Tutorial Unity/Chutter
 Using Asset Import Pipeline V2.

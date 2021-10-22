@@ -17,7 +17,7 @@ public class PlayerMovment : MonoBehaviour
 
     private Rigidbody rb;
   
-    void start()
+    void Start()
     {
         Cursor.visible = false;
         Cursor.lockState = CursorLockMode.Locked;
